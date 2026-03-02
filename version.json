@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "installer_url": "https://myserver.com/reminder/ReminderManagerSetup-1.0.0.exe",
+  "installer_url": "https://github.com/DIVYESHJADAV/reminder-manager/releases/download/v1.0.0/ReminderManagerSetup-1.0.0.exe",
   "release_notes": "Initial release.",
-  "min_supported_version": "0.9.0",
-  "checksum_sha256": "abc123...put real SHA256 of installer here..."
+  "min_supported_version": "0.9.0"
 }
